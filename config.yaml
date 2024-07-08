@@ -1,0 +1,4 @@
+embedder:
+  provider: ollama
+  config:
+    model: 'all-minilm:latest'
